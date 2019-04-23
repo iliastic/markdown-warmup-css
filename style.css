@@ -7,13 +7,3 @@ body {
 div p {
     color: magenta
 }
-p i {
-    color: yellow
-}
-table, th, td {
-  border: 1px solid black;
-}
-body {
-    margin: 0;
-    min-width: 250 px;
-}
